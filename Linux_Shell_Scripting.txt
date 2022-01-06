@@ -1,0 +1,91 @@
+A Shell(bash) is interface between the Kernal and user.
+
+Shell script is nothing but set of commands in the file.
+
+
+Arthimethic Operator :
+
++ , - , * 
+ex1:
+arthimetic operator are evaluted inside the two circular brackes.
+a=$((5 + 6))
+
+https://www.geeksforgeeks.org/basic-operators-in-shell-scripting/
+
+For String:
+
+var1="srini"
+var2="amar"
+
+equal:
+
+[ $var1 = $var2 ]
+
+not equal:
+
+[ $var2 != $var2 ]
+
+empty string:
+
+[ -z var1 ]
+
+
+Conditions:
+
+a=6
+b=8
+
+if (($a > $b)) &&  (($a > $b)) || (($a > $b))
+then
+   ......
+else 
+   ......
+fi
+
+for the If conditions inside the two circiular brackers only we need to use the variable with $
+
+for Loop :
+
+for var1 in $array
+do
+echo "$var1"
+done
+
+var1 is local variable 
+
+$array is array of values
+
+while & until loop:
+
+In while loop the loop will run if the condition is true.
+while contions
+do
+........
+done
+
+In until loop the loop will untill the condition is false.
+until condition
+do
+.........
+done
+
+Functions :
+
+function_name(){
+
+........
+
+#parameters to functions are $1 , $2 .... $n
+
+#to access all the parameret at once $* or $@
+}
+
+call function:
+
+function_name 1 2 3 4
+
+here 1 2 3 4 are function parameters.
+
+
+
+ 

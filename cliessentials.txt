@@ -1,0 +1,19 @@
+cd - Change directory 
+ls - list 
+pwd - print working directory 
+cp - copy the file from one location to another 
+mv - move the file from one location to another 
+     other use of mv is to rename the file "mv oldname newname"
+rm - its use to remove file and directory. 
+echo - its use to print 
+the text in cLI or file 
+cat - its use to concantenate file to cli . with help of cat command we can see the output of cat command in cli. 
+less -  if we are see trying to see the (using cat) see the big file. all the concents are will be printed in one 
+shot its hard to move front and back. In this case we use less command its print smaller part of content at first 
+then after hiting down it will other part of content and so.
+grep - its use for search 
+mkdir - its use to 
+create the directory 
+chmod - its use to chanage the mode of the file 
+man + help - help command.
+| - its add the output of one command to other

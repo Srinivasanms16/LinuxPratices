@@ -1,0 +1,11 @@
+C:\Srinivasan\personal\My current pratices\Linux\my_app\bin\Debug\netcoreapp3.1\my_app.exe
+C:\Srinivasan\personal\My current pratices\Linux\my_app\bin\Debug\netcoreapp3.1\my_app.deps.json
+C:\Srinivasan\personal\My current pratices\Linux\my_app\bin\Debug\netcoreapp3.1\my_app.runtimeconfig.json
+C:\Srinivasan\personal\My current pratices\Linux\my_app\bin\Debug\netcoreapp3.1\my_app.runtimeconfig.dev.json
+C:\Srinivasan\personal\My current pratices\Linux\my_app\bin\Debug\netcoreapp3.1\my_app.dll
+C:\Srinivasan\personal\My current pratices\Linux\my_app\bin\Debug\netcoreapp3.1\my_app.pdb
+C:\Srinivasan\personal\My current pratices\Linux\my_app\obj\Debug\netcoreapp3.1\my_app.csprojAssemblyReference.cache
+C:\Srinivasan\personal\My current pratices\Linux\my_app\obj\Debug\netcoreapp3.1\my_app.AssemblyInfoInputs.cache
+C:\Srinivasan\personal\My current pratices\Linux\my_app\obj\Debug\netcoreapp3.1\my_app.AssemblyInfo.cs
+C:\Srinivasan\personal\My current pratices\Linux\my_app\obj\Debug\netcoreapp3.1\my_app.dll
+C:\Srinivasan\personal\My current pratices\Linux\my_app\obj\Debug\netcoreapp3.1\my_app.pdb
